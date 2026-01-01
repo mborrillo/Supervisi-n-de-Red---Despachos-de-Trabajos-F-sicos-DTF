@@ -22,6 +22,18 @@ Proyecto de analítica operacional sobre despachos de trabajos físicos (DTF) en
   - Dashboard en Looker Studio (estructura documentada en `dashboard/diseño_dashboard.md`).
   - Páginas activas: Performance por líderes/colaboradores, SLA por AOP, vistas ejecutivas.
 
+## Dashboard en Looker Studio
+
+Accede al dashboard interactivo aquí:
+📊 [Supervisión de Red - DTF - AE](https://lookerstudio.google.com/reporting/06351cd3-79b2-42ec-b394-0b04e2e68107)
+
+**Nota**: El dashboard contiene 4 páginas:
+1. **Inicio**: Contexto y objetivos del proyecto.
+2. **Tablero General**: Visión ejecutiva de despachos, timeline, mapa geográfico.
+3. **Performance - Líderes**: KPIs de SLA (EN OBJETIVO / FUERA OBJETIVO) para despachos finalizados.
+4. **Glosario**: Breve detalle con la explicación de los conceptos más importantes.
+
+
 ## Campos principales del dataset
 
 Algunos campos clave de `dtf_raw.csv`:
