@@ -1,3 +1,4 @@
 ### Estructura del proyecto.
 
-<img width="692" height="437" alt="image" src="https://github.com/user-attachments/assets/9c4733ab-5aad-460d-85a1-e16c3fc0b071" />
+<img width="253" height="358" alt="image" src="https://github.com/user-attachments/assets/4ece76b9-feb9-48d3-b192-53b1fbbbbf9e" />
+
